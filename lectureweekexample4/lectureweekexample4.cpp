@@ -10,7 +10,7 @@ using namespace std;
 int main()
 {
 	dd
-
+		dd
 	char fullname[50];
 	char *lastname;
 
